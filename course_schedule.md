@@ -8,45 +8,85 @@
 * Lukas Martinsson, <add title/role>
 * Nikil Kunnappallil, <add title/role>
 
-## Day 1
+## Session 0
 
-| Time            |  Topic  | Instructor |
-|:------------------------:|:------------------------------------------------:|:--------:|
-| 10:00 - 10:30 | [Workshop Introduction](../lectures/Intro_to_R_workshop_all.pdf) | Meeta |
-| 10:30 - 11:45 | [Introduction to R and RStudio](../lessons/01_introR-R-and-RStudio.md) | Noor |
-| 11:45 - 12:00 | Overview of self-learning materials and homework submission | Meeta  |
+| Time            |  Topic  | 
+|:------------------------:|:------------------------------------------------:|
+| 15:00 - 15:30 | [Presentation](https://github.com/rkhetani/beginners-python/raw/master/session_one/session_one_presentation.pptx) | 
+| 15:30 - 16:30 | [Python notebook](session_one/session_one_blank_template.ipynb) |
+
+Exercises: [Session 1 exercises](session_one/session_one_exercises.ipynb)
+
+## Session 1
+
+| Time            |  Topic  | 
+|:------------------------:|:------------------------------------------------:|
+| 15:00 - 15:30 | Presentation | 
+| 15:30 - 16:30 | Python notebook |
+---
+
+## Session 2
+
+| Time            |  Topic  |
+|:------------------------:|:------------------------------------------------:|
+| 15:00 - 15:30 | Presentation | 
+| 15:30 - 16:30 | Python notebook |
 
 ---
 
-## Day 2
+## Session 3
 
-| Time            |  Topic  | Instructor |
-|:------------------------:|:------------------------------------------------:|:--------:|
-| 10:00 - 10:50 | Questions about self-learning | All |
-| 10:50 - 11:15 | [In-class exercises](../activities/Day2_activities.md) + [Answer key](../activities/Day2_activities_answer_key.R) | Heather |
-| 11:15 - 12:00 | [Data Wrangling: Subsetting Vectors and Factors](../lessons/05_introR-data-wrangling.md) | Meeta |
-
----
-
-## Day 3
-
-| Time            |  Topic  | Instructor |
-|:------------------------:|:------------------------------------------------:|:--------:|
-| 10:00 - 10:35 | Questions about self-learning lessons | All |
-| 10:35 - 11:15 | [In-class exercises](../activities/Day3_activities.md) + [Answer key](../activities/Day3_activities_answer_key.R)| Meeta |
-| 11:15 - 12:00 | [Plotting with the ggplot2 package](../lessons/11_ggplot2.md) | Heather |
+| Time            |  Topic  | 
+|:------------------------:|:------------------------------------------------:|
+| 15:00 - 15:30 | Presentation | 
+| 15:30 - 16:30 | Python notebook |
 
 ---
 
-## Day 4
+## Session 4
 
-| Time            |  Topic  | Instructor |
-|:------------------------:|:------------------------------------------------:|:--------:|
-| 10:00 - 10:35 | Questions about self-learning lessons | All |
-| 10:35 - 11:15 | [In-class exercises](../activities/Day4_activities.md) + [Answer key](../activities/Day4_activities_answer_key.R) | Heather |
-| 11:15 - 11:45 | Discussion, Q & A | All |
-| 11:45 - 12:00 | [Wrap Up](../lectures/R_workshop_wrapup_all.pdf) | Meeta |
+| Time            |  Topic  | 
+|:------------------------:|:------------------------------------------------:|
+| 15:00 - 15:30 | Presentation | 
+| 15:30 - 16:30 | Python notebook |
 
+---
+
+## Session 5
+
+| Time            |  Topic  | 
+|:------------------------:|:------------------------------------------------:|
+| 15:00 - 15:30 | Presentation | 
+| 15:30 - 16:30 | Python notebook |
+
+---
+
+## Session 6
+
+| Time            |  Topic  | 
+|:------------------------:|:------------------------------------------------:|
+| 15:00 - 15:30 | Presentation | 
+| 15:30 - 16:30 | Python notebook |
+
+---
+
+## Session 7
+
+| Time            |  Topic  | 
+|:------------------------:|:------------------------------------------------:|
+| 15:00 - 15:30 | Presentation | 
+| 15:30 - 16:30 | Python notebook |
+
+---
+
+## Session 8
+
+| Time            |  Topic  | 
+|:------------------------:|:------------------------------------------------:|
+| 15:00 - 15:30 | Presentation | 
+| 15:30 - 16:30 | Python notebook |
+
+---
 
 ## Building on this course
 

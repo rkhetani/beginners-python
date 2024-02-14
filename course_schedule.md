@@ -1,5 +1,13 @@
 # Workshop Schedule
 
+### Know your instructors
+
+* Margherita Francescatto, <add title/role>
+* Jamie Boyle, <add title/role>
+* Kinga Jenei, <add title/role>
+* Lukas Martinsson, <add title/role>
+* Nikil Kunnappallil, <add title/role>
+
 ## Day 1
 
 | Time            |  Topic  | Instructor |
@@ -27,10 +35,6 @@
 | 10:00 - 10:35 | Questions about self-learning lessons | All |
 | 10:35 - 11:15 | [In-class exercises](../activities/Day3_activities.md) + [Answer key](../activities/Day3_activities_answer_key.R)| Meeta |
 | 11:15 - 12:00 | [Plotting with the ggplot2 package](../lessons/11_ggplot2.md) | Heather |
- 
-### Questions?
-* ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:hbctraining@hsph.harvard.edu) 
-* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/hbctraining945).
 
 ---
 

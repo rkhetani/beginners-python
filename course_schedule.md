@@ -2,27 +2,28 @@
 
 ### Know your instructors
 
-* Margherita Francescatto, <add title/role>
-* Jamie Boyle, <add title/role>
-* Kinga Jenei, <add title/role>
-* Lukas Martinsson, <add title/role>
-* Nikil Kunnappallil, <add title/role>
+* Margherita Francescatto, Senior Data Scientist
+* Jamie Boyle, R&D Graduate Scientist
+* Kinga Jenei, R&D Graduate Scientist
+* Lukas Martinsson, R&D Graduate Scientist
+* Nikil Kunnappallil, R&D Graduate Scientist
 
 ## Session 0
 
 | Time            |  Topic  | 
 |:------------------------:|:------------------------------------------------:|
-| 15:00 - 15:30 | [Presentation](https://github.com/rkhetani/beginners-python/raw/master/session_one/session_one_presentation.pptx) | 
-| 15:30 - 16:30 | [Python notebook](session_one/session_one_blank_template.ipynb) |
+| 15:00 - 15:30 | Presentation | 
+| 15:30 - 16:30 | Python notebook |
 
-Exercises: [Session 1 exercises](session_one/session_one_exercises.ipynb)
 
 ## Session 1
 
 | Time            |  Topic  | 
 |:------------------------:|:------------------------------------------------:|
-| 15:00 - 15:30 | Presentation | 
-| 15:30 - 16:30 | Python notebook |
+| 15:00 - 15:30 | [Presentation](https://github.com/rkhetani/beginners-python/raw/master/session_one/session_one_presentation.pptx)| 
+| 15:30 - 16:30 |  [Python notebook](session_one/session_one_blank_template.ipynb) |
+
+Exercises: [Session 1 exercises](session_one/session_one_exercises.ipynb)
 ---
 
 ## Session 2

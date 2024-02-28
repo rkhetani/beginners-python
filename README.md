@@ -43,7 +43,7 @@ We are still working on transferring the course to this repo, improving and stan
 
 ### Presentations
 
-* Session One [Presentation](https://github.com/rkhetani/beginners-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
+* Session One [Presentation](https://github.com/AstraZeneca-Code-Club/beginners-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
 * Session Two [Presentation](https://github.com/AstraZeneca-Code-Club/beginners-python/blob/master/session_two/session_two_presentation.pptx?raw=true)
 * Session Three [Presentation](https://github.com/AstraZeneca-Code-Club/beginners-python/blob/master/session_three/session_three_presentation.pptx?raw=true)
 * Session Four [Presentation](https://github.com/AstraZeneca-Code-Club/beginners-python/blob/master/session_four/session_four_presentation.pptx?raw=true)

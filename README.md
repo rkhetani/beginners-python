@@ -54,7 +54,7 @@ We are still working on transferring the course to this repo, improving and stan
 
 ### Templates
 
-* Session One [Blank Template](https://colab.research.google.com/github/AstraZeneca-Code-Club/beginners-python/blob/master/session_one/session_one_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/AstraZeneca-Code-Club/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
+* Session One [Blank Template](https://colab.research.google.com/github/rkhetani/beginners-python/blob/master/session_one/session_one_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/AstraZeneca-Code-Club/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
 * Session Two [Blank Template](https://colab.research.google.com/github/AstraZeneca-Code-Club/beginners-python/blob/master/session_two/session_two_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/AstraZeneca-Code-Club/beginners-python/blob/master/session_two/session_two_filled_template.ipynb)
 * Session Three [Blank Template](https://colab.research.google.com/github/AstraZeneca-Code-Club/beginners-python/blob/master/session_three/session_three_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/AstraZeneca-Code-Club/beginners-python/blob/master/session_three/session_three_filled_template.ipynb)
 * Session Four [Blank Template](https://colab.research.google.com/github/AstraZeneca-Code-Club/beginners-python/blob/master/session_four/session_four_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/AstraZeneca-Code-Club/beginners-python/blob/master/session_four/session_four_filled_template.ipynb)

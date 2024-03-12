@@ -30,9 +30,10 @@ Exercises: [Session 1 exercises](session_one/session_one_exercises.ipynb)
 
 | Time            |  Topic  |
 |:------------------------:|:------------------------------------------------:|
-| 15:00 - 15:30 | Presentation | 
-| 15:30 - 16:30 | Python notebook |
+| 15:00 - 15:30 | [Presentation](https://github.com/rkhetani/beginners-python/blob/master/session_two/session_two_presentation.pptx) | 
+| 15:30 - 16:30 | [Python notebook](session_two/session_two_blank_template.ipynb) |
 
+Exercises: [Session 2 exercises](session_two/session_two_exercises.ipynb)
 ---
 
 ## Session 3

@@ -41,9 +41,9 @@ Exercises: [Session 2 exercises](session_two/session_two_exercises.ipynb)
 | Time            |  Topic  | 
 |:------------------------:|:------------------------------------------------:|
 | 15:00 - 15:30 | [Presentation](https://github.com/rkhetani/beginners-python/blob/master/session_three/session_three_presentation.pptx) | 
-| 15:30 - 16:30 | [Python notebook](session_three/session_three_blank_template.ipynb) |
+| 15:30 - 16:30 | [Python notebook](https://github.com/rkhetani/beginners-python/blob/master/session_three/session_three_blank_template.ipynb) |
 
-Exercises: [Session 3 exercises](session_three/session_three_exercises.ipynb)
+Exercises: [Session 3 exercises](https://github.com/rkhetani/beginners-python/blob/master/session_three/session_three_exercises.ipynb)
 ---
 
 ## Session 4

@@ -50,9 +50,10 @@ Exercises: [Session 3 exercises](https://github.com/rkhetani/beginners-python/bl
 
 | Time            |  Topic  | 
 |:------------------------:|:------------------------------------------------:|
-| 15:00 - 15:30 | Presentation | 
-| 15:30 - 16:30 | Python notebook |
+| 15:00 - 15:30 | [Presentation](https://github.com/rkhetani/beginners-python/blob/master/session_four/session_four_presentation.pptx) | 
+| 15:30 - 16:30 | [Python notebook](https://github.com/rkhetani/beginners-python/blob/master/session_four/session_four_blank_template.ipynb) |
 
+Exercises: [Session 4 exercises](https://github.com/rkhetani/beginners-python/blob/master/session_four/session_four_exercises.ipynb)
 ---
 
 ## Session 5
